@@ -11,26 +11,4 @@
 * [DQL Assignments -String Functions](dql-assignments-string-functions.md)
 * [DQL Assignments -Aggregate Functions](dql-assignments-aggregate-functions.md)
 * [DQL Assignments -Analytical Functions](dql-assignments-analytical-functions.md)
-## TSQL Assignments
 
-
-## Performance Tuning Assignments
-
-
-## Insurance Claims Project
-
-## Shipping Project
-
-## Phone Billing Project
-* Requirements
-* ERD
-* DDL-Solution
-* Data Setup
-### Business Components
-* Analysis Queries
-* Stored Procs
-* Functions
-* Views
-* Triggers
-* Performance Tuning
-### Code Deployment
