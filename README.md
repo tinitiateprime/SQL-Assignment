@@ -1,4 +1,4 @@
-# DB Training Assignmentgs
+# DB Training Assignments
 
 ## SQL
 * [Assignments Data Setup](asg-data-setup.md)
